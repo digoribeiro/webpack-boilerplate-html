@@ -104,25 +104,3 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the habashes.<br/>
 Your app is ready to be deployed!
-
-## Stack
-
-- [React](https://reactjs.org/)
-
-- [Gatsby](https://www.gatsbyjs.org/docs/)
-
-- [Eslint](http://eslint.org/)
-
-- [Jest](https://facebook.github.io/jest/)
-
-- [Prettier](https://prettier.io/)
-
-- [Prop Types](https://www.npmjs.com/package/prop-types/)
-
-- [Styled Components](https://styled-site.com/)
-
-As you can see, we use a lot of great tools and if you want to see more, take a look at our [package.json](package.json).
-
-## Code Standarts
-
-This project uses [eslint](http://eslint.org/) and [.editorconfig](http://editorconfig.org/) is defined to have indent_size of **2 spaces**.
